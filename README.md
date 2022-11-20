@@ -33,7 +33,7 @@
 
 1. Root page:
 
-<img width="649" alt="Screenshot 2022-09-23 at 12 27 46" src="https://user-images.githubusercontent.com/114099418/202913103-87860163-870b-4800-ace7-ec98d8aa2745.png">
+![Screenshot 2022-11-20 at 17 34 48](https://user-images.githubusercontent.com/114099418/202914164-ddf1ae9d-18e2-4769-8368-bd20ce177d97.png)
 
 
 * What ports are used by the java process?
