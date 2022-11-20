@@ -67,7 +67,8 @@
 
 2. So I changed min heap size to 1G and max heap size to 3G:
 
-![Screenshot 2022-11-18 at 15 47 30](https://user-images.githubusercontent.com/114099418/202735496-e52f1886-429d-4ed0-bb4b-bc4fc111cb05.png)
+![Screenshot 2022-11-20 at 17 46 30](https://user-images.githubusercontent.com/114099418/202914721-b73b75b7-b77b-46a3-b9ba-8894a32f88ef.png)
+
 
 
 ## Ad 8
