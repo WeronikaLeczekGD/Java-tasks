@@ -32,7 +32,9 @@
 ## Ad 2
 
 1. Root page:
-<img width="1273" alt="Screenshot 2022-11-17 at 12 30 31" src="https://user-images.githubusercontent.com/114099418/202735401-6b11010d-b4ef-4b50-90e1-9e3a907156f2.png">
+
+<img width="649" alt="Screenshot 2022-09-23 at 12 27 46" src="https://user-images.githubusercontent.com/114099418/202913103-87860163-870b-4800-ace7-ec98d8aa2745.png">
+
 
 * What ports are used by the java process?
 
